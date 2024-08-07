@@ -1,0 +1,17 @@
+abbreviation: NE
+available: true
+classes: 320
+colour: 2
+id: 0
+label: NEWC
+longName: sludge
+name: Sludge
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/sludge.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16
