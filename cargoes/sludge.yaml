@@ -1,4 +1,4 @@
-abbreviation: NE
+abbreviation: SD
 available: true
 classes: 320
 colour: 2
@@ -8,7 +8,7 @@ longName: sludge
 name: Sludge
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 41
 sprite:
   filename: cargoes/sludge.png
   left: 0
